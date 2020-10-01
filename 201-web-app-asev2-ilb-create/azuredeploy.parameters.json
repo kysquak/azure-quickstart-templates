@@ -3,25 +3,25 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "aseName": {
-            "value": "GEN-UNIQUE"
+            "value": "gcctest-ase3"
         },
         "aseLocation": {
-            "value": "South Central US"
+            "value": "Southeast Asia"
         },
         "existingVirtualNetworkName": {
-            "value": "GET-PREREQ-virtualNetwork"
+            "value": "gcctesting-vnet2"
         },
         "existingVirtualNetworkResourceGroup": {
-            "value": "GET-PREREQ-rgName"
+            "value": "gcctesting"
         },
         "subnetName": {
-            "value": "GET-PREREQ-subnet"
+            "value": "app1"
         },
         "internalLoadBalancingMode": {
             "value": 3
         },
         "dnsSuffix": {
-            "value": "changeme"
+            "value": "frownrat.com"
         }
     }
 }
